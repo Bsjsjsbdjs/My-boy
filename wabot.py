@@ -9,7 +9,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-TOKEN = "7339045905:AAH5Ke335jEwt_yFjz_OC8l_ryJesViG-0E"
+TOKEN = BOT_KEY
 
 LANGUAGE, PHONE_NUMBER = range(2)
 
